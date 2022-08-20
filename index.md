@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-[Link](https://www.curseforge.com/minecraft/mc-mods/jei/download/3885885) and [Image](
+[Link](https://www.curseforge.com/minecraft/mc-mods/jei/download/3885885) and [Image](downlad.png)
 
 ### Jekyll Themes
 
