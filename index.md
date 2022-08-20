@@ -4,7 +4,7 @@
 
 ## Carpeta de mods
 
-[![Image](download.png) Descargar ZIP](https://doc-9g-4s-drive-data-export.googleusercontent.com/download/v221csg1pm9s82p0kusofpte8kmbiolj/kgckjfi5hr9v1r12u6ofre1m9eah9k2v/1661031000000/3c0f5381-e39b-4954-bd55-6c85b382c92a/114679392069462226607/ADt3v-N6AE1WcWK0g3i7RX24SykxTN3MfvVnltIlnEIImo2S98oy9EnUkkNRPUmzZx3lqHwO__eiZzPtlMwytIx1ayBxAzvLA0Hk9jmkbYX0mh5XhOi7g_ROwcXI5P2SfuRkCaDDZ2bNUPI3Cmh8s_WoS3W2_5MNHan8pDuoPUDz1hGlCNkO8TGUfSIjIEAEZb0wVScZ0wKX01DqhcylFeYIjgQfqZwdzjif9W_ES8RBEm4iJF-7aPQrder1hm49idq9-awQBCsQ1Vo27uy5N_Y5wti5axHXVp90hXNwf80V1H_MuJZsSiX2VaaDdZI73yA2-jcsytPN?authuser=0&nonce=fibp94qb20dns&user=114679392069462226607&hash=bmi11ig22k349s5atli661n8cosjlgqk)
+[![Image](download.png) Descargar ZIP](https://doc-8c-90-drive-data-export.googleusercontent.com/download/v221csg1pm9s82p0kusofpte8kmbiolj/r6sqmtbu5hp8vk7shp8oakk6pfq3uhcc/1661035500000/a8a66f57-d653-43d0-ac7b-5e696b10d4d2/114679392069462226607/ADt3v-OLYjOWW-WaZiTxGmnv9TkDZkFt6rGKTLzr5RF8WsN44HzqQq3y7cv_7Vs3DA-8p8ZV0z4AZLKICsS_DWqpROhFmbICxF0Rhubtcx1SOn3lg4zYJTQL6Y_txtKaWtXrf0NJe3ZqFlQwiITCI4j1nKr00YgU4ery8b-6n7q8LEW4dw5xcgDg5wVUPfjsO8z_ppzCva68S8ZQDjb7DOycir-wd30wQysGeLbeCFKPS--WjmPmdthBBRj_WtxHekn5zo1nrfjTPrq_qSmnpQyPfcjzhJOEQMP4Lx5TIm1nVVqKiqodtshwfel6d6phPspqiJNy7kw4?authuser=0&nonce=m27qhujq98vbk&user=114679392069462226607&hash=ocj8vm92l9569i79f5g87f784ei2gn02)
 
 ## Lista de mods
 
@@ -40,6 +40,10 @@
 [![Image](download.png) Rat's Mischief](https://www.curseforge.com/minecraft/mc-mods/rats-mischief/download/3778759/file)\
 [![Image](download.png) It Shall Not Tick](https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick/download/3794231/file)\
 [![Image](download.png) Weeping Angels](https://www.curseforge.com/minecraft/mc-mods/weeping-angels-mod/download/3796732/file)\
+[![Image](download.png) GeckoLib3](https://www.curseforge.com/minecraft/mc-mods/geckolib/download/3930007/file)\
+[![Image](download.png) Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli/download/3846086/file)\
+[![Image](download.png) Citadel](https://www.curseforge.com/minecraft/mc-mods/citadel/download/3783096/file)\
+[![Image](download.png) Curios](https://www.curseforge.com/minecraft/mc-mods/curios/download/3841948/file)\
 [![Image](download.png) Rei Chikita](https://www.curseforge.com/minecraft/mc-mods/rei-chikita-mod/download/3811931/file)
 
 
