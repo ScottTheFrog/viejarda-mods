@@ -1,34 +1,12 @@
-## Forge Server 1.18.2
+## Forge Server *1.18.2*
 
-You can use the [editor on GitHub](https://github.com/ScottTheFrog/testSite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+### VIEJARDA.DDNS.NET
 
 ## Mod Folder
 
 [![Image](download.png) Download all the mods together](https://doc-90-5g-drive-data-export.googleusercontent.com/download/v221csg1pm9s82p0kusofpte8kmbiolj/2tjors944fjmk5cbh45rbphl0kqfmnot/1661008500000/c867fd9b-8355-47b9-861a-8ade85cf1efb/114679392069462226607/ADt3v-PlmMnUiP7y1pSZLd8skgdMcOpzb1DimwHx1fiBeS_1k16gESM2yRXDxqmn4aZXO-VyNisriubafN31xQDV9zyiHQSCbjI-MapOm_yDrcwQqW73XLNonhPj22h7hOPYN9_LbXjAlk0pyOMYtGy6mJvkcCSop_xRGB-frrBSv1fEgyFdcJ5yPMGx6mvm08ACJVXVv7zAGt1bibVa2-Bd3muFju8LhWCRxWmfo7SIIciGVAU1yx8wuiLgS4brBzBaY5O7PplGr8YKg6zKe24CuY84oJPj98eisG9m91-HBkwzfNkcmxg36jIbZydirnpZ6vXCdl_q?authuser=0&nonce=l6k4rqkenlqf6&user=114679392069462226607&hash=lsjg3t6uv4qbk7a7hpvm65hdbi7v5kvf)
 
-## Mod lists 
+## Mod list
 
 [![Image](download.png) JEI](https://www.curseforge.com/minecraft/mc-mods/jei/download/3885885/file)\
 [![Image](download.png) Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/3871421/file)\
@@ -54,9 +32,6 @@ Syntax highlighted code block
 [![Image](download.png) FlyWheel](https://www.curseforge.com/minecraft/mc-mods/flywheel/download/3934664/file)\
 [![Image](download.png) Create](https://www.curseforge.com/minecraft/mc-mods/create/download/3934676/file)\
 [![Image](download.png) Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks/download/3931811/file)\
-[![Image](download.png) Selene](https://www.curseforge.com/minecraft/mc-mods/selene/download/3842421/file)\
+[![Image](download.png) Selene](https://www.curseforge.com/minecraft/mc-mods/selene/download/3842421/file)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScottTheFrog/testSite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
