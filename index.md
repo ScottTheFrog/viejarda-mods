@@ -4,7 +4,7 @@
 
 ## Carpeta de mods
 
-[![Image](download.png) Descargar ZIP](https://doc-8c-90-drive-data-export.googleusercontent.com/download/v221csg1pm9s82p0kusofpte8kmbiolj/r6sqmtbu5hp8vk7shp8oakk6pfq3uhcc/1661035500000/a8a66f57-d653-43d0-ac7b-5e696b10d4d2/114679392069462226607/ADt3v-OLYjOWW-WaZiTxGmnv9TkDZkFt6rGKTLzr5RF8WsN44HzqQq3y7cv_7Vs3DA-8p8ZV0z4AZLKICsS_DWqpROhFmbICxF0Rhubtcx1SOn3lg4zYJTQL6Y_txtKaWtXrf0NJe3ZqFlQwiITCI4j1nKr00YgU4ery8b-6n7q8LEW4dw5xcgDg5wVUPfjsO8z_ppzCva68S8ZQDjb7DOycir-wd30wQysGeLbeCFKPS--WjmPmdthBBRj_WtxHekn5zo1nrfjTPrq_qSmnpQyPfcjzhJOEQMP4Lx5TIm1nVVqKiqodtshwfel6d6phPspqiJNy7kw4?authuser=0&nonce=m27qhujq98vbk&user=114679392069462226607&hash=ocj8vm92l9569i79f5g87f784ei2gn02)
+[![Image](download.png) Descargar ZIP](https://drive.google.com/drive/folders/1ZIOCguRgqcjETjeYukXjKmuktRMKj5Fy?usp=sharing)
 
 ## Lista de mods
 
